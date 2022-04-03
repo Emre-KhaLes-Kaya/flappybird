@@ -1,2 +1,2 @@
-# Flapy-Bird-Game
+# Flappybird-Game
 Asset-Prefab-Scene-Script
